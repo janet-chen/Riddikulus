@@ -2,6 +2,14 @@
 # Riddikulus: 
 Help patients with phobias overcome their fears. Created with love by Hotdog Studios (UBC students from Janet Chen, Li Ze Choo, Michael Goh, and Daphne Liu). 
 
+
+
+#Arachnophobia
+#Ophidiophobia
+![snake](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/snake%20pic.PNG)
+#Acrophobia
+![heights](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/Screen%20Shot%202017-09-17%20at%2012.19.44%20PM.png)
+
 # About:
 The goal of this project is to help patients overcome their phobia with exposure therapy. Exposure therapy involves the exposure of the patient to their feared object without any danger to overcome their distress overtime. We picked the three most common fears, spider, snake and height. The target audience is 12-18 years old, as most phobias develop at the age of 11. Parents, doctors or professional can guide through the process using the app. The project is built with Unity, C++, Google VR SDK, and Google Cardboard.
 
