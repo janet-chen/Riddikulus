@@ -4,10 +4,12 @@ Help patients with phobias overcome their fears. Created with love by Hotdog Stu
 
 
 
-#Arachnophobia
-#Ophidiophobia
+# Arachnophobia:
+
+# Ophidiophobia:
 ![snake](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/snake%20pic.PNG)
-#Acrophobia
+
+# Acrophobia:
 ![heights](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/Screen%20Shot%202017-09-17%20at%2012.19.44%20PM.png)
 
 # About:
