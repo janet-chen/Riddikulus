@@ -1,23 +1,6 @@
 
 # Riddikulus: 
-Help patients with phobias overcome their fears 
-
-Users establish goals, sound effects, opt out by turning the scenario into something entertaining, measure heartbeat with fitbit to opt out when user’s heartbeat is too fast 
-
-# Technologies:
-Unity Game Engine with C#, Google VR API, Fitbit API
-
-Combine internet of things (IoT) with VR 
-
-# Audience: 
-Parents or psychiatrists helping children overcome fears, ads like bug sprays or on skyscrapers, military to help soldiers 
-
-Potential Funds: US National Institute of Mental Health, http://www.cpa.ca/researchers/researchfunding/funders 
-
-# Three different modes- 
-Fear for: Spider, snake, heights; 
-Main menu to choose the modes and levels 
-
+Help patients with phobias overcome their fears. Created with love by Hotdog Studios (UBC students from Janet Chen, Li Ze Choo, Michael Goh, and Daphne Liu). 
 
 # About:
 The goal of this project is to help patients overcome their phobia with exposure therapy. Exposure therapy involves the exposure of the patient to their feared object without any danger to overcome their distress overtime. We picked the three most common fears, spider, snake and height. The target audience is 12-18 years old, as most phobias develop at the age of 11. Parents, doctors or professional can guide through the process using the app. The project is built with Unity, C++, Google VR SDK, and Google Cardboard.
