@@ -1,21 +1,16 @@
 
-# lumohacks17
-24-hour Hackathon project for Lumohacks 2017.
-
-
-# Goal: 
+# Riddikulus: 
 Help patients with phobias overcome their fears 
 
-# Description: 
-Create different levels to allow user to establish goals, sound effects, opt out by turning the scenario into sth entertaining, measure heartbeat with fitbit to opt out when user’s heartbeat is too fast 
+Users establish goals, sound effects, opt out by turning the scenario into something entertaining, measure heartbeat with fitbit to opt out when user’s heartbeat is too fast 
 
-# Tools: 
-Fitbit API, unity, web API 
+# Technologies:
+Unity Game Engine with C#, Google VR API, Fitbit API
 
-Combine internet of things (IOT) with VR 
+Combine internet of things (IoT) with VR 
 
-# Customer: 
-parents or psychiatrists helping children overcome fears, ads like bug sprays or on skyscrapers, military to help soldiers 
+# Audience: 
+Parents or psychiatrists helping children overcome fears, ads like bug sprays or on skyscrapers, military to help soldiers 
 
 Potential Funds: US National Institute of Mental Health, http://www.cpa.ca/researchers/researchfunding/funders 
 
