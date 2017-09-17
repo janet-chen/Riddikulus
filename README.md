@@ -5,6 +5,7 @@ Help patients with phobias overcome their fears. Created with love by Hotdog Stu
 ![riddikulus](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/rename.png)
 
 # Arachnophobia:
+1[spider](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/spider.PNG)
 
 # Ophidiophobia:
 ![snake](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/snake%20pic.PNG)
