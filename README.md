@@ -1,6 +1,6 @@
 
 # Riddikulus: 
-Help patients with phobias overcome their fears. Created with love by Hotdog Studios (UBC students from Janet Chen, Li Ze Choo, Michael Goh, and Daphne Liu). 
+Help patients with phobias overcome their fears. Created with love by Hotdog Studios (UBC students: Janet Chen, Li Ze Choo, Michael Goh, and Daphne Liu). 
 
 ![riddikulus](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/rename.png)
 
