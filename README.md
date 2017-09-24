@@ -1,6 +1,5 @@
 
 # Riddikulus: 
-Help patients with phobias overcome their fears. Created with love by Hotdog Studios (UBC students: Janet Chen, Li Ze Choo, Michael Goh, and Daphne Liu). 
 
 ![riddikulus](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/rename.png)
 
@@ -14,21 +13,18 @@ Help patients with phobias overcome their fears. Created with love by Hotdog Stu
 ![heights](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/Screen%20Shot%202017-09-17%20at%2012.19.44%20PM.png)
 
 # About:
-The goal of this project is to help patients overcome their phobia with exposure therapy. Exposure therapy involves the exposure of the patient to their feared object without any danger to overcome their distress overtime. We picked the three most common fears, spider, snake and height. The target audience is 12-18 years old, as most phobias develop at the age of 11. Parents, doctors or professional can guide through the process using the app. The project is built with Unity, C#, Google VR SDK, and Google Cardboard.
+Confronted by his worst fear, a spider, Ron Weasley casted “Riddikulus!” to transform it into something less fearsome.    
 
-# Future Work and Funding
-We can work with psychologists, pediatrician, and researchers on the topic of phobia therapy amongst children. We can easily pair the project with additional hardwares such as Muse and Fitbit to keep track of the changes in patients' physical response (i.e brain waves, blood pressure, heart rate). Doctors would be able to view real-time statstical data on their website to identify any improvements. The amount of time patient stays in the scenario and their qualititative feedback can also be noted.
+“Riddikulus” is the project our team developed during Lumohacks 2017. Lumohacks is an annual 24-hour hackathon to tackle health issues with technology. Our team is composed of four Computer Science student students from University of British Columbia (UBC), Daphne Liu, Janet Chen, Michael Goh, and Li Ze Choo. As most of us had background in Virtual Reality (VR), we were curious to see how the topic of this year, mental health, and VR can intersect. We received First Place amongst a total of 60 teams and won CAD $6130 worth of prizes. 
 
-The fundings of the project can be divided into two parts: 1) governmental 2) commercial. This research project, to investigate the impact of Virtual Reality on combatting phobias, can apply for funds by agencies such as Canadian Institutes of Health Research (CIHR). The comprehensive list of funding sources can be found at: http://www.cpa.ca/researchers/researchfunding/funders. We can also gather funds commercially. For example, we can collaborate with snake or spider repellent companies to demonstrate their products at the end of the scenes or put ads on the windows of skyscrapers.
 
-# What are the Phobias?
-Spider- Arachnophobia, or the fear of spiders, is the most common animal phobia around the world. Nearly 31% of U.S population suffer from Arachnophobia.
+# Inspiration: 
+We began searching for project ideas online, and came across the use of VR “exposure therapy” in military to relieve soldiers from post-traumatic stress. Exposure therapy is a widely-used technique to expose patients to their feared object or context in a safe, controlled environment. We also learned that phobia is a mental health issue that is often overlooked. Its impact on people suffering from it can range from altering the lifestyle to avoid phobias, fainting and panic attacks. 
 
-Snake- Ophidiophobia, or the fear of snakes is the second common phobia affecting 1/3 of human population. It alters people's lifestyle as they avoid outdoor activities, hiking, and travelling.
+# The Project:
+At Lumohacks 2017, we created “Riddikulus”, a VR experience to help patients overcome their phobia with exposure therapy.  We developed visual and auditory simulations of the three most common fears: spiders, snakes and heights. The app is intended for children from 12-17 years old and is to be used jointly with parents and therapists. It is built with Unity, C#, Google VR SDK, and Google Cardboard.
+Our team is proud to deliver a complete, intuitive and interactive prototype. This project both reflects upon our passion for VR and our drive to learn under time constraints.  We gained technical skills such as linking multiple scenes and animating objects in Unity. Five minutes before the deadline, the project could not build due to a bug. We troubleshooted and narrowed down to the lack of link between Google Cardboard and the camera. The video demonstration can be found at:  https://youtu.be/VpJSWe6NH9c 
 
-Height- Acrophobia is the fear of height or fear of falling that causes sufferers to be highly agitated above ground, and interferes with their abilities to leave the environment.
+# Future Work: 
+We certainly hope to expand on the project in the future. Our ideas include pairing the Google Cardboard with additional hardware such as Muse and Fitbit. This allows quantitative tracking of patients’ physical response, such as brain waves and heart rate. The other idea involves collaboration with psychologists and researchers on the topic of phobia therapy. We will be meeting with experts shortly to explore areas of research or social venture.  
 
-http://www.fearof.net/top-10-phobias-of-all-time/
-
-# What's Next?
-Congratulations on facing your fears! Having a phobia is perfectly normal and you are not alone in this! You can choose to seek professional help with phobias counsellors and psychologists near you or share your stories on online platforms. Identify your fears and determine your own methods to confront your fears. Good luck!
