@@ -1,5 +1,5 @@
 
-# Riddikulus: 
+# Riddikulus: A Lumohacks 2017 Project
 
 ![riddikulus](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/rename.png)
 
