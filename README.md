@@ -1,6 +1,6 @@
 
 # Riddikulus: A Lumohacks 2017 Project
-*Created with love by Daphne Liu, Janet Chen, Michael Goh, and Li Ze Choo.*
+## *Created with love by Daphne Liu, Janet Chen, Michael Goh, and Li Ze Choo.*
 
 ![riddikulus](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/rename.png)
 
@@ -18,7 +18,7 @@
 
 **“Riddikulus” is the project our team developed during Lumohacks 2017.** Lumohacks is an annual 24-hour hackathon to tackle health issues with technology. Our team is composed of four Computer Science student students from University of British Columbia (UBC), Daphne Liu, Janet Chen, Michael Goh, and Li Ze Choo. As most of us had background in Virtual Reality (VR), we were curious to see how the topic of this year, mental health, and VR can intersect. We received First Place amongst a total of 60 teams and won CAD $6130 worth of prizes. 
 
-# Demo: 
+# Link to Demo Video: 
 
 [![Demo Video](http://img.youtube.com/vi/VpJSWe6NH9c/0.jpg)](https://www.youtube.com/watch?v=VpJSWe6NH9c)
 
