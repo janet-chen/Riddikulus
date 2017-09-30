@@ -1,6 +1,6 @@
 
 # Riddikulus: A Lumohacks 2017 Project
-## *Created with love by Daphne Liu, Janet Chen, Michael Goh, and Li Ze Choo.*
+*Created with love by Daphne Liu, Janet Chen, Michael Goh, and Li Ze Choo.*
 
 ![riddikulus](https://raw.githubusercontent.com/janet-chen/Riddikulus/master/rename.png)
 
